@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+Witam na stronie projektu SocialNetwork w Worpress.
 
-You can use the [editor on GitHub](https://github.com/k0sM3n/SocialNetwork/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Wymagania:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-PHP 5 
+-Serwer HTTP ngix/apache (polecam ngix jest wydajniejszy)
+-cron
+-lącze 10 MBit
+- minimalnie 1 GB miejsca na dysku  (przy srednim ruchu starczy na ok 4-6 miesięcy(
 
-### Markdown
+-Mniej wymagana jets wlasna domena np.pl można postawić na bezplatnej aż serwis "zacznie zarabiać"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Polecam najtanszego kimsufi z zainstalowanym Debianem (można wybrać inny  lecz Debiany śą najprostre w administrowaniu)
 
-```markdown
-Syntax highlighted code block
+Mozna postawić na jakimś hostingu ale wtedy nie mamy dostępu do większości logów
 
-# Header 1
-## Header 2
-### Header 3
+Pomysłodawca danego rozwiązania nie odpowiada za szkody i straty finansowe spowodowane użyciem podanego przepisu/skryptu.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k0sM3n/SocialNetwork/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wsparcie techniczne można bezpłatnie użyskać wpisujęc komentarz pod stroną projektu : https://github.com/k0sM3n/SocialNetwork lub emailowo pod adresem admin@phu-fuj.bl.ee (prosze w tytule zamiescić slowo "social" , pomoże to w szybszym odnajdowaniu zapytań co za tym idzie szybsza bedzie moja odowiedz)
