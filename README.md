@@ -6,13 +6,14 @@ Wymagania:
 -Serwer HTTP ngix/apache (polecam ngix jest wydajniejszy)
 -cron
 -lącze 10 MBit
-- minimalnie 1 GB miejsca na dysku  (przy srednim ruchu starczy na ok 4-6 miesięcy)
+-minimalnie 1 GB miejsca na dysku  (przy srednim ruchu starczy na ok 4-6 miesięcy)
 
 -skrypt wordpress w najnowszej wersji (pobieramy z https://pl.wordpress.org/)
 
 -motyw Republic (pobieramy z https://wordpress.org/themes/republic/)
 
--wytczka Hashtagger (pobieramy z https://wordpress.org/plugins/hashtagger/)
+-wytczka Hashtagger (pobieramy z https://wordpress.org/plugins/hashtagger/) która umożliwia tagowanie postu używając #hashtags
+
 
 
 
