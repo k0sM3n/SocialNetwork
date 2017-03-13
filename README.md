@@ -14,6 +14,7 @@ Wymagania:
 
 -wytczka Hashtagger (pobieramy z https://wordpress.org/plugins/hashtagger/) która umożliwia tagowanie postu używając #hashtags
 
+-wtyczka Front End PM (pobieramy z https://wordpress.org/plugins/front-end-pm/ )
 
 
 
@@ -23,7 +24,11 @@ Polecam najtanszego kimsufi z zainstalowanym Debianem (można wybrać inny  lecz
 
 Mozna postawić na jakimś hostingu ale wtedy nie mamy dostępu do większości logów
 
-Wkrotce bedzie dostep demonstracyjny do serwisu 
+Wersja demonstracyjna:
+
+www.phu-fuj.bl.ee logowanie z uzyciem loginu Demo i hasła demo mozliwe tutaj: www.phu-fuj.bl.ee/wp-admin (panel logwania przeniose pod adres /logowanie)
+
+LOGIN I HASLO DO PANELU Demo:Demo adr
 
 Zamieram tez dodac szablon serwisu oaz strwrzy wersje instalacyjną
 
