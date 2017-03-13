@@ -17,11 +17,15 @@ Wymagania:
 
 
 
--Mniej wymagana jets wlasna domena np.pl można postawić na bezplatnej aż serwis "zacznie zarabiać"
+-Mniej wymagana jets wlasna domena np .pl można postawić na bezplatnej aż serwis "zacznie zarabiać"
 
-Polecam najtanszego kimsufi z zainstalowanym Debianem (można wybrać inny  lecz Debiany śą najprostre w administrowaniu)
+Polecam najtanszego kimsufi z zainstalowanym Debianem (można wybrać inny  lecz Debiany są najprostrze w administrowaniu)
 
 Mozna postawić na jakimś hostingu ale wtedy nie mamy dostępu do większości logów
+
+Wkrotce bedzie dostep demonstracyjny do serwisu 
+
+Zamieram tez dodac szablon serwisu oaz strwrzy wersje instalacyjną
 
 Pomysłodawca danego rozwiązania nie odpowiada za szkody i straty finansowe spowodowane użyciem podanego przepisu/skryptu.
 
