@@ -28,9 +28,9 @@ Wersja demonstracyjna:
 
 www.phu-fuj.bl.ee logowanie z uzyciem loginu Demo i hasła demo mozliwe tutaj: www.phu-fuj.bl.ee/wp-admin (panel logwania przeniose pod adres /logowanie)
 
-LOGIN I HASLO DO PANELU Demo:Demo adr
+LOGIN I HASLO DO PANELU Demo:Demo
 
-Zamieram tez dodac szablon serwisu oaz strwrzy wersje instalacyjną
+Zamieram tez dodac szablon serwisu oaz stworzyc wersje instalacyjną
 
 Pomysłodawca danego rozwiązania nie odpowiada za szkody i straty finansowe spowodowane użyciem podanego przepisu/skryptu.
 
